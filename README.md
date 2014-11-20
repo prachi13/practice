@@ -1,5 +1,5 @@
 #practice 
-## practice ith git hub teacher
+## practice with git hub teacher
 ========
 
 first sample repo with github
